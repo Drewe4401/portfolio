@@ -6,11 +6,13 @@ import {
 import "react-vertical-timeline-component/style.min.css";
 import SchoolIcon from "@material-ui/icons/School";
 import WorkIcon from "@material-ui/icons/Work";
+import "./Experience.css";
 
 function Experience() {
   return (
     <div className="experience">
-      <VerticalTimeline lineColor="#3e497a">
+      
+      <VerticalTimeline className="timeline" lineColor="#3e497a">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="2015 - 2019"

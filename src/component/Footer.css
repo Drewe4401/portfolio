@@ -7,6 +7,8 @@
   align-items: center;
   flex-direction: column;
   padding-top: 20px;
+  position: relative;
+  clear: both;
 }
 
 .socialMedia svg {

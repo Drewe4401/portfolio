@@ -1,0 +1,17 @@
+.experience {
+    min-height: 100%;
+  }
+
+.timeline{
+    height: 100%;
+}
+
+.vertical-timeline-element {
+    margin: 5%; /* Adjust as necessary */
+  }
+
+  @media only screen and (min-height: 1600px) {
+    .vertical-timeline-element{
+        margin: 15%;
+    }
+  }

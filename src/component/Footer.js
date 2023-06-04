@@ -12,7 +12,7 @@ function Footer() {
         <YoutubeIcon onClick={() => window.open('https://www.youtube.com/channel/UCsvDJvZnu0Y-fdPtBp5s28A')} />
         <LinkedInIcon onClick={() => window.open('https://www.linkedin.com/in/andrew-e-b87048222')}/>
       </div>
-      <p> &copy; 2023 artfoliodev.com</p>
+      <p> &copy; 2023 https://portfoliodrewe4401.web.app/</p>
     </div>
   );
 }
