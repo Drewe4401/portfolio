@@ -70,7 +70,7 @@ function Experience() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2022 - present"
+          date="2022 - 2023"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<WorkIcon />}
         >
@@ -82,6 +82,34 @@ function Experience() {
           </h4>
           <p>
           As a quality control specialist, I utilized my attention to detail to ensure that each item met strict quality standards, resulting in a high level of customer satisfaction and repeat business.
+          </p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="2023 - present"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            System Engineer - National Networks
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Lake Charles, LA
+          </h4>
+          <p>
+          Manage Windows servers, including user
+management, permissions, DHCP, and DNS.
+Implement backup and recovery solutions for data
+integrity and operational continuity.
+Provide comprehensive software and hardware
+support to clients.
+Handle networking tasks for optimal connectivity and
+performance.
+Administer Microsoft 365 services, ensuring smooth
+operations and accessibility.
+Strengthen cybersecurity by monitoring and mitigating
+threats such as phishing, remote access, and
+malware.
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
